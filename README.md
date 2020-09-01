@@ -1,3 +1,3 @@
 # site
 ThetaCC site
-https://thetacc.github.io/site/
+https://thetacc.github.io/
